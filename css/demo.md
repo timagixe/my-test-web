@@ -1,3 +1,0 @@
-# demo markdown
-
-some text
